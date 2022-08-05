@@ -1,0 +1,13 @@
+Identify the primary keys for each of the tables above.
+
+1. Customers: Customer_ID
+2. Orders: Order_ID
+3. Products: Product Serial Number
+4. Suppliers: Supplier_ID
+
+Identify the foreign keys for each of the tables above.
+
+1. Customers: None
+2. Orders: Customer_ID
+3. Products: Supplier_ID
+4. Suppliers: None.
