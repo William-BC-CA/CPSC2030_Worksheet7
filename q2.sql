@@ -20,7 +20,7 @@ WHERE Price < 300 ORDER BY Date_Manufactured DESC;
 
 SELECT Suppliers.Supplier_Name, ProductSerialNumber, Name, Price
 FROM Products, Suppliers
-WHERE (Price >=500 AND Price <= 1000) AND (Supplier_Country = 'China' OR Supplier_Country = 'Vietnam');
+WHERE (Price >= 500 AND Price <= 1000) AND (Supplier_Country = 'China' OR Supplier_Country = 'Vietnam');
 
 SELECT *
 FROM Orders
