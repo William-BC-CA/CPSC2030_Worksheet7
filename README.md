@@ -1,2 +1,3 @@
-# didactic-memory
-Open Codespace #1.
+# CPSC2030_Worksheet7
+
+Worksheet 7.
